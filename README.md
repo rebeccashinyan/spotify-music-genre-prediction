@@ -148,10 +148,3 @@ The strongest parts of the project were:
 - adding KMeans cluster features to capture broader structure in the lower-dimensional space
 
 Overall, the project suggests that **clean preprocessing and leakage-safe feature engineering mattered as much as model choice**.
-
-## Repository contents
-
-```text
-.
-├── spotify_music_genre_prediction_github_ready.ipynb
-├── README.md
