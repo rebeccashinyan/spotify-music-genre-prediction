@@ -118,7 +118,7 @@ The notebook also tested multiple PCA explained-variance thresholds:
 | 0.90 | 8 | 0.895 |
 | 0.95 | 9 | 0.903 |
 
-Although 0.95 produced a slightly higher analysis AUC in the sensitivity check, the notebook’s reported final model takeaway is the logistic-regression pipeline with a **macro OvR AUC of 0.898**.
+Although 0.95 produced a slightly higher analysis AUC in the sensitivity check, the notebook’s reported final model takeaway is the logistic-regression pipeline with a **macro OvR AUC of 0.901**.
 
 ## Per-genre AUC highlights
 
